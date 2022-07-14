@@ -1,7 +1,12 @@
-# RAk3rman Profile
-[![Build Status](https://travis-ci.org/RAK3RMAN/rak3rman-profile.svg?branch=master)](https://travis-ci.org/RAK3RMAN/rak3rman-profile)
+# Mark 2
 
-The public webpage profile for Radison Akerman
+The 2nd iteration of Radison Akerman's personal website, built on Node.js and bare HTML/CSS
+
+## Site Screenshots
+
+Apologies, some background images seem to have not loaded properly when taking the screenshot.
+
+[Home (one-pager)](https://github.com/rak3rman/mark2/files/9107212/mark2home.pdf)
 
 ## Install and Setup
 - Clone the repository from github.com

@@ -4,9 +4,9 @@ The 2nd iteration of Radison Akerman's personal website, built on Node.js and ba
 
 ## Site Screenshots
 
-Apologies, some background images seem to have not loaded properly when taking the screenshot.
+Apologies, there seems to be an screenshot issue with the some background images on title sections.
 
-[Home (one-pager)](https://github.com/rak3rman/mark2/files/9107212/mark2home.pdf)
+[Home Page PDF (one-pager)](https://github.com/rak3rman/mark2/files/9107212/mark2home.pdf)
 
 ## Install and Setup
 - Clone the repository from github.com
